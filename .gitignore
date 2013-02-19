@@ -1,0 +1,20 @@
+# xcode noise
+.mode1v3
+.pbxuser
+.perspective
+.perspectivev3
+*.pyc
+*.swp
+*~.nib/
+build/*
+
+# osx noise
+.DS_Store
+profile
+
+# project specific
+*.xcodeproj/xcuserdata/
+*.xcodeproj/project.xcworkspace/xcuserdata/
+
+/DerivedData/
+/crashlogs/
